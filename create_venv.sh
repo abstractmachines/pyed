@@ -17,3 +17,5 @@ source () {
 
 init_venv
 source
+
+# check your python version in env: > python --version
