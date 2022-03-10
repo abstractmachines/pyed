@@ -12,7 +12,7 @@
 
 > Pip install Jupyter for Notebook:
 ```
-pip3 install jupyter
+pip3 install jupyter # or pip install requirements.txt
 ```
 
 > Run Jupyter:
